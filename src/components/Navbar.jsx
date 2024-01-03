@@ -10,6 +10,10 @@ const Navbar = () => {
       path: "/counter",
       text: "Counter",
     },
+    {
+      path: "/users",
+      text: "Users",
+    },
   ];
 
   return (
